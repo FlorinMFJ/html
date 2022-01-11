@@ -1,0 +1,123 @@
+
+[
+    {   
+        "name":"Maryland",
+        "Abbreviation":"MD", 
+        "capital":"Annapolis", 
+        "region":"south" ,
+        "state-bird":"Baltimore Oriole",
+        "nick-name":"The Old Line State",
+        "population-rank":19,
+        "highest-point":"Backbone Mountain",
+        "governor":"Larry Hogen" 
+     },
+
+     {
+        "name":"Alaska",
+        "Abbreviation":"AK", 
+        "capital":"Juneau", 
+        "region":"west" ,
+        "state-bird":"Willow Ptarmigan",
+        "nick-name":"The Last Frontier",
+        "population-rank":47,
+        "highest-point":"Mt. Mckinley",
+        "governor":"Mike Dunleavy"
+     },
+
+     {
+        "name":"Virginia",
+        "Abbreviation":"VA", 
+        "capital":"Richmond", 
+        "region":"south" ,
+        "state-bird":"cardinal",
+        "nick-name":"The Old Dominion State",
+        "population-rank":12,
+        "highest-point":"Mt.Rogers",
+        "governor":"Ralph Northam"
+     },
+
+     {
+        "name":"Texas",
+        "Abbreviation":"TX", 
+        "capital":"Austin", 
+        "region":"south" ,
+        "state-bird":"Baltimore Oriole",
+        "nick-name":"Lone Star State",
+        "population-rank":2,
+        "highest-point":"Guadalupe Peak",
+        "governor":"Greg Abbott"
+     },
+     {
+        "name":"Oregon",
+        "Abbreviation":"OR", 
+        "capital":"Salem", 
+        "region":"West" ,
+        "state-bird":"Western Meadowlark",
+        "nick-name":"Beaver state",
+        "population-rank":27,
+        "highest-point":"Mount Hood",
+        "governor":"Kate Brown"
+    },
+
+    {
+        "name":"Minnesota",
+        "Abbreviation":"MN", 
+        "capital":"St.Paul", 
+        "region":"midwest" ,
+        "state-bird":"common loon",
+        "nick-name":"Land of 10000 lakes",
+        "population-rank":22,
+        "highest-point":"Eagle mountain",
+        "governor":"Tim Waltz"
+    },
+
+    {
+        "name":"Illinois",
+        "Abbreviation":"IL", 
+        "capital":"Springfield", 
+        "region":"midwest" ,
+        "state-bird":"cardinal",
+        "nick-name":"Prairie state",
+        "population-rank":5,
+        "highest-point":"Charles Mound",
+        "governor":"JB Pritzer"
+    },
+
+    {
+        "name":"Utah",
+        "Abbreviation":"UT", 
+        "capital":"Salt Lake City", 
+        "region":"west" ,
+        "state-bird":"Red billed gull",
+        "nick-name":"The beehive state",
+        "population-rank":33,
+        "highest-point":"kings peak",
+        "governor":"Spensor Cox"
+
+    }
+    {
+        "name":"Missouri",
+        "Abbreviation":"MO", 
+        "capital":"Jefferson City", 
+        "region":"south" ,
+        "state-bird":"bluebird",
+        "nick-name":"Show me state",
+        "population-rank":18,
+        "highest-point":"Taum sauk mountain",
+        "governor":"Mike Parson"
+    },
+
+    {   "name":"Maine",
+        "Abbreviation":"ME", 
+        "capital":"Agusta", 
+        "region":"Northeast" ,
+        "state-bird":"chickadee",
+        "nick-name":"pine tree state",
+        "population-rank":42,
+        "highest-point":"katahdin mountain",
+        "governor":"Janet Mills"
+    }
+
+    
+
+]

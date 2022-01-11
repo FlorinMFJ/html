@@ -1,0 +1,63 @@
+[
+    {
+        "name":"Virat Kohli",
+        "role":"batsman",
+        "batting-style":"right-hand",
+        "bowling style":"right-arm",
+        "dob":"11/5/1988"
+    },
+
+    {
+        "name":"Rohit Sharma",
+        "role":"batsman",
+        "batting-style":"right-hand",
+        "bowling style":"right-arm-offbreak",
+        "dob":"4/30/1987"
+    }, 
+    {
+        "name":"Jasprit Bumrah",
+        "role":"bowler",
+        "batting-style":"right-hand",
+        "bowling style":"right-arm-fast",
+        "dob":"12/6/1993"
+    },
+
+    {
+        "name":"Ravichandran Ashwin",
+        "role":"bowling-allrounder",
+        "batting-style":"right-hand",
+        "bowling style":"right-arm-offspin",
+        "dob":"9/17/1986"
+    },
+
+    {   "name":"Mohammad Shami",
+        "role":"bowler",
+        "batting-style":"right-hand bat",
+        "bowling style":"right-arm-fast-medium",
+        "dob":"9/3/1990"
+    },
+
+    {
+        "name":"Hardik Pandya",
+        "role":"All-rounder",
+        "batting-style":"right-hand",
+        "bowling style":"right-arm-mediumfast",
+        "dob":"11/11/1993"
+    },
+
+    {
+        "name":"Rishabh Pant",
+        "role":"wicket-keeper-batsman",
+        "batting-style":"left-hand",
+        "bowling style":"",
+        "dob":"11/4/1997"
+    },
+    {
+        "name":"Umesh Yadav",
+        "role":"bowler",
+        "batting-style":"right-hand",
+        "bowling style":"right-arm-fast",
+        "dob":"10/25/1987"
+    }
+    
+]
